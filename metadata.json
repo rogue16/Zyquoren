@@ -1,0 +1,6 @@
+{
+  "name": "NovaVideo",
+  "description": "Générateur vidéo IA autonome Text-to-Video avec recherche et orchestration intelligente d'outils, storyboard dynamique, synthèse vocale et rendu cinématique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
